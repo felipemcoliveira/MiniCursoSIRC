@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06a931ea8477df74ab7b63f4c44b522d
+timeCreated: 1527308424
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71099
+  packageName: Toon Zombies Pack
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Zombies/prefabs/TZ_M_zombie_12.prefab
+  uploadId: 248991

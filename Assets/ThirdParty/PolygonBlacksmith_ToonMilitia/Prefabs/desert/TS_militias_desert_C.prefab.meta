@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e17d5e42512a30b44b6ac8950118c700
+timeCreated: 1489408831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85399
+  packageName: Toon Soldiers - Militia
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Soldiers/ToonSoldiers_militias/prefabs/desert/TS_militias_desert_C.prefab
+  uploadId: 289114

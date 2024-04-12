@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d04d511ed0129fe4e93f3235c7a223c0
+timeCreated: 1489410803
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85399
+  packageName: Toon Soldiers - Militia
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Soldiers/ToonSoldiers_militias/prefabs/jungle/TS_militias_jungle_E.prefab
+  uploadId: 289114

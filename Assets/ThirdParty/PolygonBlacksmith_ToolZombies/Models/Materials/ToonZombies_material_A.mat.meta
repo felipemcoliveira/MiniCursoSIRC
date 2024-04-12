@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c615506ffe4f31e4b9f4ca90af5e476a
+timeCreated: 1527285834
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71099
+  packageName: Toon Zombies Pack
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Zombies/models/Materials/ToonZombies_material_A.mat
+  uploadId: 248991

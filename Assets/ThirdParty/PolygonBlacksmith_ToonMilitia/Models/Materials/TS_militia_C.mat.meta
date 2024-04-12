@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7ed22ee5b5676f4697d77a915e9b333
+timeCreated: 1489069176
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85399
+  packageName: Toon Soldiers - Militia
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Soldiers/ToonSoldiers_militias/models/materials/TS_militia_C.mat
+  uploadId: 289114

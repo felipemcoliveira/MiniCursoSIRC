@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8fcb3d5dcb5b67418228b6dc2e62a33
+timeCreated: 1489407445
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85399
+  packageName: Toon Soldiers - Militia
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Soldiers/ToonSoldiers_militias/prefabs/urban/TS_militias_urban_A.prefab
+  uploadId: 289114

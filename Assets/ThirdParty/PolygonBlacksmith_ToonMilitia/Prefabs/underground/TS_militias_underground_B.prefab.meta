@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4aac0850af69fb048a8c38f4392c9c70
+timeCreated: 1489411604
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85399
+  packageName: Toon Soldiers - Militia
+  packageVersion: 1.2
+  assetPath: Assets/Toon_Soldiers/ToonSoldiers_militias/prefabs/underground/TS_militias_underground_B.prefab
+  uploadId: 289114
